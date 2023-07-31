@@ -19,8 +19,14 @@
 - Google maps embeds 
 </details>
 
-### Credits to Open Source Software
+## Publish Notes Alias:
+```diff
++ Added Something New
+- Removed Something
+= Changed Something
+@@ Checksum (SHA-1) @@
+```
 
-***
+### Credits to Open Source Software
 
 [For more information, click here](https://www.gnu.org/licenses/gpl-3.0.html)
