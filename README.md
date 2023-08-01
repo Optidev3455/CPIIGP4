@@ -19,7 +19,7 @@
 - Google maps embeds 
 </details>
 
-## Publish Notes Alias:
+## Release Notes Alias:
 ```diff
 + Added Something New
 - Removed Something
