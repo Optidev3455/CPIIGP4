@@ -1,5 +1,5 @@
 # CPII Group 4 Website
-
+This project has been discontinued.
 
 ## Contains
 
@@ -26,7 +26,3 @@
 = Changed Something
 @@ Checksum (SHA-1) @@
 ```
-
-### Credits to Open Source Software
-
-[For more information, click here](https://www.gnu.org/licenses/gpl-3.0.html)
