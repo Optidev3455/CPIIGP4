@@ -18,11 +18,3 @@ This project has been discontinued.
 - Video players
 - Google maps embeds 
 </details>
-
-## Release Notes Alias:
-```diff
-+ Added Something New
-- Removed Something
-= Changed Something
-@@ Checksum (SHA-1) @@
-```
