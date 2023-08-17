@@ -11,11 +11,3 @@ This project has been discontinued.
 - Custom Images
 - Easter Egg Page
 </details>
-
-## Release Notes Alias:
-```diff
-+ Added Something New
-- Removed Something
-= Changed Something
-@@ Checksum (SHA-1) @@
-```
